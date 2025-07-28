@@ -1,0 +1,14 @@
+C:\Users\Maria Cristina\projectosNet\Liga\bin\Debug\net8.0\Liga.exe
+C:\Users\Maria Cristina\projectosNet\Liga\bin\Debug\net8.0\Liga.deps.json
+C:\Users\Maria Cristina\projectosNet\Liga\bin\Debug\net8.0\Liga.runtimeconfig.json
+C:\Users\Maria Cristina\projectosNet\Liga\bin\Debug\net8.0\Liga.dll
+C:\Users\Maria Cristina\projectosNet\Liga\bin\Debug\net8.0\Liga.pdb
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.AssemblyInfoInputs.cache
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.AssemblyInfo.cs
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.csproj.CoreCompileInputs.cache
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.dll
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\refint\Liga.dll
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.pdb
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.genruntimeconfig.cache
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\ref\Liga.dll
