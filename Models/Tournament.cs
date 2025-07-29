@@ -12,11 +12,11 @@ public class Tournament
     public int Id { get; set; }
     public string? Name { get; set; }
     public string? Country {get; set; }
-    public DateTime StartDate { get; set; }
-    public DateTime EndDate { get; set; }
+    public DateOnly StartDate { get; set; }
+    public DateOnly EndDate { get; set; }
     public string? Type { get; set; }
 
-    public Tournament(int id, string? name, DateTime startd, DateTime endd, string? country, string? type)
+    public Tournament(int id, string? name, DateOnly startd, DateOnly endd, string? country, string? type)
     {
         Id = id;
         Name = name;

@@ -12,3 +12,4 @@ C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\refint\Liga.dll
 C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.pdb
 C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.genruntimeconfig.cache
 C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\ref\Liga.dll
+C:\Users\Maria Cristina\projectosNet\Liga\obj\Debug\net8.0\Liga.sourcelink.json
